@@ -8,5 +8,5 @@ Dataset: Pytorch FAKEDATA
 * Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks: https://arxiv.org/abs/1506.01497  
 Dataset: PASCAL VOC 2012
 
-## Original Papers
+## Contributors
 * Isac-Daniel Ciobota
